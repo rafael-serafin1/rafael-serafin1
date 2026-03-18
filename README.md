@@ -1,88 +1,38 @@
-# 👋 Olá! Seja bem-vindo ao meu GitHub! <br> Meu nome é Rafael Engel Serafin.
-
-## 🚀 Sobre mim
-Sou um Estudante de Ciência da Computação e Engenheiro de Software apaixonado por tecnologia, aprendizado contínuo e criação de projetos que realmente fazem a diferença.  
-Gosto de explorar novas linguagens, frameworks e ferramentas, sempre em busca de evoluir e transformar boas ideias em aplicações reais.
-
-Atualmente, estou focado em:
-- 🔧 Desenvolvimento de mods e ferramentas para a comunidade de desenvolvedores  
-- 💻 FullStack e criação de softwares
-- 🎨 Interfaces modernas e responsivas  
-- ☁️ Automação e otimização de fluxos de trabalho  
-
+# Rafael Engel Serafin
+```
+Desenvolvedor focado em construção de aplicações web e ferramentas.  
+Experiência prática com JavaScript/TypeScript, Node.js e Python, desenvolvendo APIs, automações e projetos próprios.
+```
+## Principais projetos
+<pre>
+<b>Vectora</b>
 ---
+Linguagem de domínio específico para definição de animações de forma declarativa.
+- Foco em abstração e modelagem de comportamento
+- Implementada em JavaScript/TypeScript
 
-## 🛠️ Tecnologias e ferramentas que utilizo
-
-### 💼 **Linguagens**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" />
-</p>
-
-### ⚙️ **Frameworks & Bibliotecas**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-</p> 
-
-### 🧰 **Ferramentas de Desenvolvimento**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
-</p>
-
+<b>Sistema CRUD (API)</b>
 ---
+API REST com autenticação e integração com banco de dados.
+- Estrutura em camadas (controllers/services)
+- Validação de dados e tratamento de erros
+- Base para aplicações web completas
 
-## 📊 Estatísticas do GitHub
-
-<div align="center" display="flex">
-  
-![Stats](https://raw.githubusercontent.com/RafaelEngel10/github-stats-generator/main/stats.svg) <br>
-
-</div>
-
+<b>Clint Bot </b>
 ---
-
-## 🌟 Projetos em destaque
-
-### 🔹 **Vectora**
-Linguagem de domínio específico de estilização interpretada do JavaScript, focada na criação prática e lógica de animações, através de uma síntaxe simples e legível.
-
-### 🔹 **Clint o bot**
-Este projeto se baseia na criação de um bot para Discord, fazendo o uso da linguagem Python.
-
----
-
-## 🎯 Objetivos atuais
-- Criar projetos mais robustos e escaláveis  
-- Contribuir para comunidades open-source  
-- Aprender novas tecnologias e padrões de arquitetura  
-- Aumentar meu portfólio com projetos relevantes  
-
----
-
-## 📩 Como me contatar
-- ✉️ Email: **engelrafael03@gmail.com**  
-- 💼 LinkedIn: [Rafael Engel Serafin](https://www.linkedin.com/in/rafael-engel-serafin-33941b35a/)  
-- 🌐 Portfolio: *em breve*  
-
----
-
-### ✨ Obrigado por visitar meu perfil!  
-Fique à vontade para explorar meus projetos ou me chamar para conversar sobre tecnologia.
+Bot para Discord desenvolvido em Python.
+- Automação de interações
+- Execução de comandos personalizados
+</pre>
+## Stack principal
+```
+- JavaScript / TypeScript
+- Node.js
+- React
+- PostgreSQL
+```
+## Contato
+```
+- Email: engelrafael03@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rafael-engel-serafin
+```
