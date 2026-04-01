@@ -5,6 +5,13 @@ Experiência prática com JavaScript/TypeScript, Node.js e Python, desenvolvendo
 ```
 ## Principais projetos
 <pre>
+<b>oHTML Template Enhancer</b>
+---
+Camada de modelagem que elimina a necessidade de ferramentas de compilação, permitindo estruturas reutilizáveis ​​baseadas em componentes diretamente no HTML.
+- Focado em Simplicidade e Praticidade
+- Estrutura Adaptativa
+- Implementação em conjunto com frameworks
+  
 <b>Vectora</b>
 ---
 Linguagem de domínio específico para definição de animações de forma declarativa.
@@ -17,12 +24,6 @@ API REST com autenticação e integração com banco de dados.
 - Estrutura em camadas (controllers/services)
 - Validação de dados e tratamento de erros
 - Base para aplicações web completas
-
-<b>Clint Bot </b>
----
-Bot para Discord desenvolvido em Python.
-- Automação de interações
-- Execução de comandos personalizados
 </pre>
 ## Stack principal
 ```
