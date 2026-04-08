@@ -27,9 +27,10 @@ API REST com autenticação e integração com banco de dados.
 </pre>
 ## Stack principal
 ```
-- JavaScript / TypeScript
-- Node.js
-- React
+- JavaScript / TypeScript --> Node.js
+- C / C++
+- Java / C#
+- React + Vite
 - PostgreSQL
 ```
 ## Contato
