@@ -5,12 +5,11 @@ Experiência prática com JavaScript/TypeScript, Node.js e Python, desenvolvendo
 ```
 ## Principais projetos
 <pre>
-<b>oHTML Template Enhancer</b>
+<b>Procedural Terminal Markup Language</b>
 ---
-Camada de modelagem que elimina a necessidade de ferramentas de compilação, permitindo estruturas reutilizáveis ​​baseadas em componentes diretamente no HTML.
-- Focado em Simplicidade e Praticidade
-- Estrutura Adaptativa
-- Implementação em conjunto com frameworks
+Linguagem de marcação declarativa usada para descrever interfaces gráficas para terminal.
+- Sintaxe expressiva e declarativa
+- Executável em qualquer terminal
   
 <b>Vectora</b>
 ---
