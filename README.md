@@ -5,8 +5,8 @@ Experiência prática com JavaScript/TypeScript, Node.js e Python, desenvolvendo
 ```
 ## Portfólio
 <pre>
-Segue o link para acessar meu portfólio atualizado:<br />
-<a>https://rafael-serafin1.github.io/portfolio-rafael-serafin/</a>
+Segue o link para acessar meu portfólio atualizado:
+https://rafael-serafin1.github.io/portfolio-rafael-serafin/
 </pre>
 ## Principais projetos
 <pre>
