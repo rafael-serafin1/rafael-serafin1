@@ -5,7 +5,7 @@ Experiência prática com JavaScript/TypeScript, Node.js e Python, desenvolvendo
 ```
 ## Principais projetos
 <pre>
-<b>Procedural Terminal Markup Language</b>
+<b>Portable Terminal Markup Language</b>
 ---
 Linguagem de marcação declarativa usada para descrever interfaces gráficas para terminal.
 - Sintaxe expressiva e declarativa
