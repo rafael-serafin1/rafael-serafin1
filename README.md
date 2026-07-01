@@ -4,11 +4,8 @@ Desenvolvedor focado em construção de aplicações web e ferramentas.
 Experiência prática com JavaScript/TypeScript, Node.js e Python, desenvolvendo APIs, automações e projetos próprios.
 ```
 ## Portfólio
-<pre>
-  Segue o link para acessar meu portfólio atualizado:
-  <a>https://rafael-serafin1.github.io/portfolio-rafael-serafin/</a>
-</pre>
-
+Segue o link para acessar meu portfólio atualizado:
+<a>https://rafael-serafin1.github.io/portfolio-rafael-serafin/</a>
 
 ## Principais projetos
 <pre>
