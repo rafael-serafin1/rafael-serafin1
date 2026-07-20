@@ -40,5 +40,5 @@ API REST com autenticação e integração com banco de dados.
 ## Contato
 ```
 - Email: engelrafael03@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rafael-engel-serafin
+- LinkedIn: https://www.linkedin.com/in/rafaelengelserafin
 ```
