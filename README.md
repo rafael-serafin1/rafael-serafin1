@@ -16,11 +16,11 @@ Linguagem de marcação declarativa usada para descrever interfaces gráficas pa
 - Sintaxe expressiva e declarativa
 - Executável em qualquer terminal
   
-<b>Vectora</b>
+<b>Document It Up!</b>
 ---
-Linguagem de domínio específico para definição de animações de forma declarativa.
-- Foco em abstração e modelagem de comportamento
-- Implementada em JavaScript/TypeScript
+Extensão com foco em documentação e navegação através de tags.
+- Foco em navegação e documentação inline
+- Implementada em TypeScript para Visual Studio Code
 
 <b>Sistema CRUD (API)</b>
 ---
