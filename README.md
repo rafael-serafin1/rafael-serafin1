@@ -37,11 +37,11 @@ API REST com autenticação e integração com banco de dados.
 - React + Vite
 - PostgreSQL
 ```
-<p align="center">
-  <img src="https://github.com/rafael-serafin1/github-stats-generator/blob/main/stats.svg" alt="Github Generated Status"/>
-</p>
 ## Contato
 ```
 - Email: engelrafael03@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rafaelengelserafin
 ```
+<p align="center">
+  <img src="https://github.com/rafael-serafin1/github-stats-generator/blob/main/stats.svg" alt="Github Generated Status"/>
+</p>
