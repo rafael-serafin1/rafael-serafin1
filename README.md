@@ -16,11 +16,13 @@ Linguagem de marcação declarativa usada para descrever interfaces gráficas pa
 - Sintaxe expressiva e declarativa
 - Executável em qualquer terminal
   
-<b>Document It Up!</b>
+<b>TODO CLI Manager</b>
 ---
-Extensão com foco em documentação e navegação através de tags.
-- Foco em navegação e documentação inline
-- Implementada em TypeScript para Visual Studio Code
+Interface de linha de comando com foco em armazenamento de tarefas em arquivos.
+- CRUD básico configurável de tarefas e sistema que escala com outros usuários
+- Busca por prioridade e subtarefas guardadas via banco de dados relacional/não-relacional
+- Marcar/desmarcar tarefas de forma simples e rápida
+- Repositório configurável com opções variadas
 
 <b>Sistema CRUD (API)</b>
 ---
